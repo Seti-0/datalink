@@ -4,7 +4,7 @@ https://datasoc.co/datalink
 
 Hello from Kieran
 
-Hello from Brian
+Hello from Brian M
 Hello from Kieran again
 
 Once more with feeling
