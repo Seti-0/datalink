@@ -4,5 +4,5 @@ https://datasoc.co/datalink
 
 Hello from Kieran
 
-Hello from Brian M
+Hello from Brian Manning
 Hello from Kieran again
